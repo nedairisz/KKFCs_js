@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+    
+}
+main, header, aside, article, footer{
+    border: 1px solid gray;  
+}
+.tarolo{
+    display: flex;
+}
+main {
+    width: 90%;
+    margin: auto;
+}
+
+article{
+    background-color: rgb(132, 223, 235);
+}
+
+footer p{
+    background-color: rgb(132, 223, 235);
+    margin: 0px;
+}
+img {
+    width: 100px;
+}
+
+.kiemel{
+    border: 1px solid red;
+    cursor: grab;
+}
+
+ 
+
+ 
+
+
